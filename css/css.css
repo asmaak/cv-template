@@ -1,0 +1,71 @@
+    *{margin:0;
+       padding:0;
+       box-sizing: border-box;}
+      .container-fluid{padding: 70px 0px;}
+      .container-fluid {padding:0;}
+      b, strong {font-weight:1000;}
+     h4>p{font-size:15px;}
+      h3,h4{font-size:20px;}
+      .margin-top20{margin-top:70px;}
+      .pd-top{padding-top: 15px;}
+       .pd-bottom{padding-bottom: 15px;}
+      .panel-heading{height: 50px;}
+      .card-2{box-shadow: 2px 2px 1px 1px rgba(0,0,0,.1)}
+      .card-4{box-shadow: 4px 4px 2px 2px rgba(0,0,0,.2)}
+      .card-6{box-shadow: 6px 6px 4px 4px rgba(0,0,0,.3)}
+      .card-8{box-shadow: 8px 8px 6px 6px rgba(0,0,0,.2)}
+      .margin-top{margin-top:15px;}
+      .panel-heading{height:60px;}
+      .carousel{margin-left: 25%;
+               margin-right: 25%;} 
+      .navbar-brand{font-size: 30px;} 
+      .navbar-brand,h3,.panel-body,h4{font-weight:bold;} 
+      .educ{display:none;} 
+      .option-box{position: fixed;
+                  top:75px;
+                  left:0px;
+                z-index: 9999;}  
+     .option-box .color-option{
+                  padding-left: 10px;;
+                  width:200px;
+                  float:left;
+                  color:white;
+                  background-color:#454949;
+                  width:150px;
+                  display:none;}
+      .option-box  .color-option h4{color:white;} 
+      .option-box  .color-option ul li{width:20px;
+                                      height:20px;
+                                      display: inline-block;
+                                     cursor: pointer;}
+      .option-box .gear-check{padding:2px;
+                         cursor: pointer;}
+      .accordion11{background-color:#adadad;
+                  display:none;}
+      .itemm{float:left;
+            height:250px;
+            width:15%;
+            text-align: center;
+            cursor: pointer;
+             line-height: 100px;}
+      .info{float:left;
+           height:250px;
+            background-image:url(../imgs/bk2.gif);
+            display:none;
+            overflow: hidden;}
+      .pro{width:100%;
+          height:100%}
+     
+      .btnbk{margin-top: 150px;
+            width:40%;
+            height:20%;
+            margin-left: 30%;}
+      button{margin-top: 90px;}
+     .btn-lg{padding:5px 3px;}
+     .panel-body{background-color:#c7cdcc;}    
+    .navbar-nav .open .dropdown-menu
+.navbar-default .navbar-nav > li > a:hover{border: 2px solid gray;
+                                           font-size: 1.1em;}
+.dropdown-menu > li > a:hover,.navbar-default .navbar-nav > li > a:hover,{background-color: white;
+                                                     color:dimgrey;}
+.btn>a{text-decoration: none;}
